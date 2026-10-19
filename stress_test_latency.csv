@@ -1,0 +1,30 @@
+Query,Retrieval (s),Reranking (s),Baseline Generation (s),Reranked Generation (s),Baseline Total (s),Reranked Total (s),Baseline Answer,Reranked Answer
+How many weeks of parental leave are eligible faculty members entitled to?,0.048,0.5979,5.2854,3.5483,5.3333,4.1942,"Based on the provided context:
+
+* **Paid Parental Leave:** Eligible employees are entitled to a maximum of **six (6) weeks** of paid parental leave (Page 195). *(Note: An employee who reaches 12 months of service within six weeks immediately following the birth or adoption receives a pro-rated amount of paid leave [Page 194]).*
+* **Total Parental Leave (Paid/Unpaid):** Employees may request up to **twenty-six (26) weeks** of total parental leave (Page 195).
+
+*(Page 194, Page 195)*","Eligible faculty members are entitled to up to **twenty-six (26) weeks** of total parental leave (combining paid and unpaid leave) for the birth or adoption of a child (Page 194). 
+
+Within that, eligible employees who meet specific position and service requirements are entitled to a maximum of **six (6) weeks** of paid parental leave (Page 194, 195)."
+Does parental leave apply when an employee's new spouse adopts a child?,0.0273,1.27,4.1668,3.5656,4.1941,4.8629,"Based on the provided context, the handbook does not state whether parental leave applies specifically when an employee's new spouse adopts a child. It only states generally that parental leave applies to eligible employees for the ""birth or adoption of a child"" (Page 194).","No. The adoption of a child by a new spouse is explicitly excluded from the parental leave policy.
+
+**Page 195**"
+How far in advance should parental leave be requested?,0.0356,1.3198,3.801,2.8619,3.8366,4.2173,"Based on the provided context, the text does not contain information regarding how far in advance parental leave must be requested. (Pages 194–195)","Requests for parental leave should be made as far in advance as possible, but generally not less than thirty (30) days before the leave commences (Page 196)."
+Which categories of employees are excluded from parental leave?,0.0476,1.0507,2.9235,3.046,2.971,4.1443,"Based on the provided context, the following categories of employees are excluded/not covered by the parental leave policy:
+
+* Temporary employees
+* Semester non-tenure-line faculty
+* Service employees
+* Graduate assistants
+* Student employees
+
+(Page 194)","Based on the provided context, the following categories of employees are not covered by the parental leave policy:
+
+* Temporary employees
+* Semester non-tenure-line faculty
+* Service employees
+* Graduate assistants
+* Student employees
+
+(Page 194)"
